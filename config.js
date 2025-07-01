@@ -15,7 +15,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS JUST NOW ALI-MD 👻*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS JUST NOW MUQEET-MD 👻*",
 // set the auto reply massage on status reply  
 WELCOME: process.env.WELCOME || "true",
 // true if want welcome msg in groups
@@ -24,21 +24,21 @@ GOODBYE: process.env.GOODBYE || "true",
 ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 // make true to know who dismiss or promoted a member in group
 ANTI_LINK_KICK: process.env.ANTI_LINK_KICK || "false",
-ANTI_LINK_WARN: process.env.ANTI_LINK_WARN || "false",
-ANTI_LINK_DELETE: process.env.ANTI_LINK_DELETE || "false",
+ANTI_LINK_WARN: process.env.ANTI_LINK_WARN || "true",
+ANTI_LINK_DELETE: process.env.ANTI_LINK_DELETE || "true",
 // make anti link true,false for groups
 ANTI_CALL: process.env.ANTI_CALL || "true",
 REJECT_MSG: process.env.REJECT_MSG || "*📞 ᴄαℓℓ ɴσт αℓℓσωє∂ ιɴ тнιѕ ɴᴜмвєʀ уσυ ∂σɴт нανє ᴘєʀмιѕѕισɴ 📵*",
 // make anti link true,false for groups 
 MENTION_REPLY: process.env.MENTION_REPLY || "false",
 // make true if want auto voice reply if someone menetion you 
-ALIVE_IMG: process.env.ALIVE_IMG || "https://qu.ax/zrqFX.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://ibb.co/F4Sf7gLM",
 // add custom menu image url
 PREFIX: process.env.PREFIX || ".", 
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "ALI-MD",
+BOT_NAME: process.env.BOT_NAME || "MUQEET-MD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "ALI-MD",    
+STICKER_NAME: process.env.STICKER_NAME || "MUQEET-MD",    
 VPS: process.env.VPS || "",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -46,24 +46,24 @@ OWNER_REACT: process.env.OWNER_REACT || "false",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923003588997",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923163954173",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "ALI INXIDE",
+OWNER_NAME: process.env.OWNER_NAME || "MUQEET INXIDE",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "© ᴘσωєʀє∂ ву αℓι м∂⎯꯭̽💀",
+DESCRIPTION: process.env.DESCRIPTION || "© ᴘσωєʀє∂ ву ៣ยợєєt м∂⎯꯭̽💀",
 // add bot desp name    
-LIVE_MSG: process.env.LIVE_MSG || "HEY IM ALIVE",
+LIVE_MSG: process.env.LIVE_MSG || "HEY MUQEET-MD IS ALIVE",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
 AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
-ANTI_BAD_WORD: process.env.ANTI_BAD_WORD || "false",
+ANTI_BAD_WORD: process.env.ANTI_BAD_WORD || "true",
 // false or true for anti bad words 
 ANTI_BOT: process.env.ANTI_BOT || "true",
-MODE: process.env.MODE || "public",
+MODE: process.env.MODE || "private",
 // make bot public-private-inbox-group 
-ANTIVIEW_ONCE: process.env.ANTIVIEW_ONCE || "off",
+ANTIVIEW_ONCE: process.env.ANTIVIEW_ONCE || "on",
 AUTO_VOICE: process.env.AUTO_VOICE || "false",
 // make true for send automatic voices
 AUTO_STICKER: process.env.AUTO_STICKER || "false",
@@ -72,13 +72,13 @@ AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply 
 ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // maks true for always online 
-PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
+PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
 // make false if want private mod
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "923003588997",
+DEV: process.env.DEV || "923163954173",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
